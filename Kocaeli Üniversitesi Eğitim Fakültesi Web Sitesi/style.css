@@ -1,0 +1,53 @@
+#menu {
+
+    margin: 0px;
+
+    padding: 0px;
+
+    list-style-type: none; 
+
+}
+
+#menu li {
+
+    float: left; 
+
+    width: 242px;
+
+     position:relative;
+
+}
+
+#menu a {
+
+    font-family: "Times New Roman";
+
+    font-size: 16px;
+
+    color: #FFFFFF;
+
+    text-decoration: none;
+
+    background-color: #a10b7c;
+
+    display: block;
+
+    padding-top: 5px;
+
+    padding-right: 5px;
+
+    border: 1px solid #a10b7c;
+
+    text-align: center;
+
+    line-height: 30px;
+
+    margin-right: 2px;
+
+}
+
+#menu a:hover {
+
+    background-color: #64074d;
+
+}

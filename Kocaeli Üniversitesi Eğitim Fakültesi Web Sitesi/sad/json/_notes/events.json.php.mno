@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsEtkinlikler" value="name:EtkinlikID;datatype:int,name:EtkinlikAdi;datatype:string,name:EtkinlikAciklama;datatype:string,name:EtkinlikResim;datatype:string,name:EtkinlikLink;datatype:string,name:EtkinlikTarihi;datatype:date,name:EtkinlikKayitTarihi;datatype:timestamp" />
+</info>
